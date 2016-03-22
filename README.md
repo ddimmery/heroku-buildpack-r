@@ -1,5 +1,7 @@
 # Heroku buildpack: R
 
+This is forked to work in a multi-buildpack environment [as detailed here](https://github.com/ddimmery/heroku-buildpack-python).
+
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for applications which use
 [R](http://www.r-project.org/) for statistical computing and [CRAN](http://cran.r-project.org/) for R packages.
 
